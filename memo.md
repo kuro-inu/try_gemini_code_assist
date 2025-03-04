@@ -1,0 +1,1 @@
+https://zenn.dev/yamazaking/articles/gemini-code-assistant-tutorial
